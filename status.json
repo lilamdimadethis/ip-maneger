@@ -1,0 +1,8 @@
+{
+  "updateAvailable": true,
+  "message": "A new version of the IP Manager tool is available!",
+  "announcements": [
+    "We have improved performance in the latest update.",
+    "Bug fixes and stability improvements."
+  ]
+}
