@@ -10,24 +10,25 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
+            background-image: url('https://cdn.discordapp.com/attachments/1202616243878760498/1202616339039125564/1612250256_144-p-sine-fioletovii-fon-dlya-fotoshopa-182.jpg?ex=65e08fbe&is=65ce1abe&hm=0aa1d6ba02c0a062ef70d606b0dcdb497f88e998499573e4c0f6d6fa76f53b7e');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #fff;
         }
 
         .container {
             text-align: center;
             max-width: 800px;
             padding: 20px;
-            background-color: #f9f9f9;
+            background-color: rgba(0, 0, 0, 0.7);
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 50px auto;
         }
 
         h1 {
-            color: #333;
+            color: #fff;
             margin-bottom: 20px;
         }
 
@@ -83,7 +84,7 @@
         }
 
         .info {
-            color: #777;
+            color: #fff;
             margin-top: 20px;
             text-align: left;
         }
@@ -109,7 +110,7 @@
         }
 
         .features h2 {
-            color: #333;
+            color: #fff;
             margin-bottom: 20px;
         }
 
@@ -132,6 +133,23 @@
             color: #007bff;
             font-weight: bold;
         }
+
+        /* Scroll Animation */
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .container {
+            animation: slideIn 1s ease forwards;
+        }
+
     </style>
 </head>
 
