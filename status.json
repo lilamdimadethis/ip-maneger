@@ -1,8 +1,8 @@
 {
-  "updateAvailable": true,
+  "updateAvailable": false,
   "message": "Updating...",
   "announcements": [
-    "Scheduled Down Time For A Api Update",
-    "Tuesday : 12:00 AM To 9:00 AM"
+    "New api update",
+    "We have added a new api for better and faster info grabbing and we have fixed some bugs"
   ]
 }
