@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scheduled Down Time For A API Update</title>
+    <meta property="og:title" content="Scheduled Down Time For A API Update">
+    <meta property="og:description" content="Tuesday: 12:00 AM To 9:00 AM">
+    <meta property="og:image" content="https://raw.githubusercontent.com/lilamdimadethis/ip-maneger/main/store%20icon.png">
+    <meta property="og:url" content="https://yourwebsite.com">
+    <meta property="og:type" content="website">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://cdn.discordapp.com/attachments/1202616243878760498/1202616339039125564/1612250256_144-p-sine-fioletovii-fon-dlya-fotoshopa-182.jpg?ex=65e08fbe&is=65ce1abe&hm=0aa1d6ba02c0a062ef70d606b0dcdb497f88e998499573e4c0f6d6fa76f53b7e');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+            background-color: rgba(0, 0, 0, 0.7);
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #fff;
+        }
+
+        img {
+            max-width: 200px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #fff;
+        }
+
+        .download-btn {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            margin-top: 20px;
+        }
+
+        .download-btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://raw.githubusercontent.com/lilamdimadethis/ip-maneger/main/store%20iconv2.png" alt="IP Manager Icon">
+        <h1>Scheduled Down Time For A API Update</h1>
+        <p>Tuesday: 12:00 AM To 9:00 AM</p>
+    </div>
+</body>
+</html>
