@@ -1,6 +1,6 @@
 {
-  "updateAvailable": false,
-  "message": "A new version of the IP Manager tool is available!",
+  "updateAvailable": true,
+  "message": "Updating...",
   "announcements": [
     "Scheduled Down Time For A Api Update",
     "Tuesday : 12:00 AM To 9:00 AM"
